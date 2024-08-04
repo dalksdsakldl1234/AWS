@@ -1,0 +1,13 @@
+[33mcommit 5d0456a41cae3b8f71f9182d3367b2192113c792[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: gkxodnd <gkxodnd0245@gmail.com>
+Date:   Sun Aug 4 17:52:42 2024 +0900
+
+    Revert "first commit !"
+    
+    This reverts commit 6338afacfaa489c2038c44a737faddcedffd447d.
+
+[33mcommit 6338afacfaa489c2038c44a737faddcedffd447d[m
+Author: gkxodnd <gkxodnd0245@gmail.com>
+Date:   Sun Aug 4 17:23:35 2024 +0900
+
+    first commit !
